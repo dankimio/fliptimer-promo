@@ -21,6 +21,3 @@ This is the first update to our app. Jeez **goodness** by kept more sensually a 
 ## Version 1.0
 
 Initial release
-
-#### What's New
-- Initial release
