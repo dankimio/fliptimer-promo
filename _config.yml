@@ -85,7 +85,6 @@ sass:
 exclude:
   - LICENSE
   - README.md
-  - CNAME
 
 collections:
   pages:
