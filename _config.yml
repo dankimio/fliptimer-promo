@@ -31,17 +31,17 @@ youtube_username:
 
 # Feature List (Edit, add or remove features to be presented.)
 features:
-  - title: GitHub Pages Jekyll Theme
-    description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name: magic
+  - title: Productivity Timer
+    description: Break up your work into intervals. Work on your tasks. Don't forget to take breaks.
+    fontawesome_icon_name: hourglass-start
 
-  - title: iPhone Device Preview
-    description: Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name: mobile
+  - title: Put Your Phone Away
+    description: Put your phone on the table screen facing down. No distractions.
+    fontawesome_icon_name: bell-slash
 
-  - title: Video Support
-    description: Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name: play-circle
+  - title: Dark Mode, Customization and More
+    description: Custom timer length, dark mode and more to come. Stay tuned!
+    fontawesome_icon_name: wrench
 
 # Theme Settings
 topbar_color: "#fff"
