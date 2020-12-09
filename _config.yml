@@ -2,7 +2,7 @@
 page_title: # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
-ios_app_id: 1095742214  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
+ios_app_id: 1543547997  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link: # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link: # Enter Google Play Store URL.
@@ -19,7 +19,7 @@ enable_smart_app_banner: true # Set to true to show a smart app banner at top of
 your_name: Dan Kim
 your_link: https://dankim.io
 your_city:
-email_address: emil.baehr@gmail.com
+email_address:
 facebook_username:
 instagram_username: dankimio
 twitter_username: dankimio
@@ -28,7 +28,6 @@ youtube_username:
 
 # Feature List (Edit, add or remove features to be presented.)
 features:
-
   - title: GitHub Pages Jekyll Theme
     description: Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     fontawesome_icon_name: magic
