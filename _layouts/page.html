@@ -5,18 +5,18 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-{% include head.html %}
+  {% include head.html %}
 
-<body class="subPageBody">
+  <body class="subPageBody">
     <div class="headerBackground subPageHeaderBackground">
-        <div class="container subPageContainer">
+      <div class="container subPageContainer">
         {% include header.html %}
-            <article class="page markdown-body">
-                {{ content }}
-            </article>
-        </div>
-        {% include appstoreimages.html %}
+        <article class="page markdown-body">
+          {{ content }}
+        </article>
+      </div>
+      {% include appstoreimages.html %}
     </div>
-</body>
+  </body>
 
 </html>
