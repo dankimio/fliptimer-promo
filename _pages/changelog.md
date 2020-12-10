@@ -18,6 +18,23 @@ This is the first update to our app. Jeez **goodness** by kept more sensually a 
 - [Changes to Privacy Policy](/privacypolicy)
 <br> -->
 
+## Version 1.2
+
+#### What’s New:
+
+* Strict mode: resets the timer if you’re distracted.
+* 5 minute timer interval: useful for short breaks.
+
+## Version 1.1
+
+#### What’s New:
+
+* Now you can choose timer length. Select your preference by tapping on the timer label.
+
+#### Fixed:
+
+* The timer will no longer start in the settings screen.
+
 ## Version 1.0
 
 Initial release
