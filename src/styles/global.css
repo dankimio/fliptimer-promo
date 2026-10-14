@@ -1,17 +1,17 @@
 @import "tailwindcss";
 
 @theme {
-  --color-lilac: #898bcc;
-  --color-lilac-dark: #5c6093;
-  --color-lilac-light: #eceefa;
+  --color-lavender: #898bcc;
+  --color-lavender-dark: #5c6093;
+  --color-lavender-light: #eceefa;
 }
 
 @layer base {
   a:focus-visible {
-    @apply rounded-sm outline-2 outline-offset-4 outline-lilac-dark;
+    @apply rounded-sm outline-2 outline-offset-4 outline-lavender-dark;
   }
 
   ::selection {
-    @apply bg-lilac-light text-zinc-950;
+    @apply bg-lavender-light text-zinc-950;
   }
 }

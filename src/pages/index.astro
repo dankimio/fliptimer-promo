@@ -31,9 +31,9 @@ const features = [
   <main id="main" class="mx-auto max-w-6xl px-6 sm:px-8">
     <section aria-labelledby="hero-title" class="grid items-center gap-12 pt-10 pb-16 sm:pt-16 sm:pb-20 lg:grid-cols-2 lg:gap-16 lg:pt-12">
       <div>
-        <p class="mb-6 text-xs font-semibold tracking-widest text-lilac-dark uppercase">{app.trackName}</p>
+        <p class="mb-6 text-xs font-semibold tracking-widest text-lavender-dark uppercase">{app.trackName}</p>
         <h1 id="hero-title" class="max-w-lg text-5xl leading-none font-semibold tracking-tighter sm:text-7xl">
-          Phone down.<br /><span class="text-lilac">Focus on.</span>
+          Phone down.<br /><span class="text-lavender">Focus on.</span>
         </h1>
         <p class="mt-8 max-w-md text-lg leading-relaxed text-zinc-600 sm:text-xl">Get through your tasks by putting your phone away.</p>
         <p class="mt-4 max-w-md text-base leading-relaxed text-zinc-600">
@@ -46,7 +46,7 @@ const features = [
           <p class="text-sm text-zinc-500">{app.formattedPrice} on the App Store</p>
         </div>
       </div>
-      <figure class="flex min-w-0 flex-col items-center rounded-3xl bg-linear-to-br from-lilac-light via-white to-blue-100 px-6 pt-10 pb-6 sm:px-10 sm:pt-12 sm:pb-8">
+      <figure class="flex min-w-0 flex-col items-center rounded-3xl bg-linear-to-br from-lavender-light via-white to-blue-100 px-6 pt-10 pb-6 sm:px-10 sm:pt-12 sm:pb-8">
         <div class="relative w-60 max-w-full rounded-[2.75rem] bg-zinc-950 p-2.5 shadow-2xl ring-1 ring-zinc-800 sm:w-64 lg:w-72">
           <Image src={screenshot} alt="Flip Timer running a focus session with 24 minutes and 59 seconds remaining." widths={[480, 576, 768]} sizes="(min-width: 1024px) 268px, (min-width: 640px) 236px, 220px" loading="eager" fetchpriority="high" class="block h-auto w-full rounded-[2.125rem]" />
           <div aria-hidden="true" class="absolute top-2 left-1/2 h-6 w-2/5 -translate-x-1/2 rounded-b-2xl bg-zinc-950"></div>
@@ -64,7 +64,7 @@ const features = [
         {features.map((feature) => (
           <article>
             <div class="mb-5 flex items-center justify-between">
-              <span class="flex size-11 items-center justify-center rounded-2xl bg-lilac-light text-lilac-dark">
+              <span class="flex size-11 items-center justify-center rounded-2xl bg-lavender-light text-lavender-dark">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" class="size-6" aria-hidden="true">
                   {feature.circle && <circle cx="12" cy="13" r="9" />}
                   {feature.paths.map((path) => <path d={path} />)}
