@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Flip Timer</title>
+    <defs>
+        <linearGradient x1="100%" y1="26.2835168%" x2="0%" y2="73.7164832%" id="linearGradient-1">
+            <stop stop-color="#33C5FF" offset="0%"></stop>
+            <stop stop-color="#D298E2" offset="51.2583893%"></stop>
+            <stop stop-color="#FFFBF0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Dark" stroke="none" fill="none">
+        <rect id="Background" fill="#000000" fill-rule="evenodd" x="0" y="0" width="512" height="512"></rect>
+        <path d="M249.291014,180.847651 C259.30019,179.258633 269.915555,181.487987 278.764678,187.91235 C282.135188,190.359302 285.098559,193.322673 287.54551,196.693182 L381.519041,326.135322 C387.943404,334.984445 390.172758,345.59981 388.58374,355.608986 C386.994722,365.618161 381.587332,375.021147 372.738209,381.44551 C365.974832,386.355646 357.831323,389 349.47353,389 L161.52647,389 C150.591232,389 140.691232,384.567619 133.525041,377.401429 C126.358851,370.235238 121.92647,360.335238 121.92647,349.4 C121.92647,341.042208 124.570824,332.898698 129.480959,326.135322 L223.45449,196.693182 C229.878853,187.844059 239.281839,182.436669 249.291014,180.847651 Z" id="Rectangle-Copy" stroke="url(#linearGradient-1)" stroke-width="44" transform="translate(255.5, 278.5) scale(1, -1) translate(-255.5, -278.5)"></path>
+    </g>
+</svg>
