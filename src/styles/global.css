@@ -1,9 +1,9 @@
 @import "tailwindcss";
 
 @theme {
-  --color-lilac: #a879bd;
-  --color-lilac-dark: #79578f;
-  --color-lilac-light: #f0e5f5;
+  --color-lilac: #898bcc;
+  --color-lilac-dark: #5c6093;
+  --color-lilac-light: #eceefa;
 }
 
 @layer base {
