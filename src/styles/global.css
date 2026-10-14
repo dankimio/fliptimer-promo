@@ -1,7 +1,7 @@
 @import "tailwindcss";
 
 @theme {
-  --color-lavender: #898bcc;
+  --color-lavender: #7d80c2;
   --color-lavender-dark: #5c6093;
   --color-lavender-light: #eceefa;
 }
